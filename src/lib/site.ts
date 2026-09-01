@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Perros el guero",
   description: "Somos una tienda enfocada en la venta de perros calientes",
-  archetype: "saas_tool" as
+  archetype: "storefront" as
     | "storefront"
     | "dashboard"
     | "workflow"
